@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Junkai Ren"
-  avatar           : "junkairen.png"
+  avatar           : "junkairen.jpg"
   bio              : "Ph.D student, Computer Science Department, NUDT"
   location         : "Changsha, China"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "Changsha, China"
+  email            : "https://directory.ualberta.ca/person/junkai2"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
