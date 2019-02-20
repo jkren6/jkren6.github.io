@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "A Control System for Active Ball Handing in the RoboCup Middle Size League"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publications/SeqGAN
+venue: " The Twenty-Eighth Chinese Control and Decision Conference (CCDC-16)"
+date: 2016-5
+citation: '<b>Junkai Ren</b>, Chenggang Xie, Junhao Xiao, Kaihong Huang, and Huimin Lu. <i>The the 28th Chinese Control and Decision Conference </i>. <b>IEEE</b>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[[IEEE Version]](https://ieeexplore.ieee.org/document/7531777) [[Download]](https://www.trustie.net/attachments/download/151511/0585_final.pdf) 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+## Abstract
+This paper describes the design, realization and testing of an active ball handling mechanism which is designed for dribbling the ball in the RoboCup Middle Size League used by our team NuBot. First, a virtual model of the simplified ball handling mechanism is derived. Afterwards, a control system including a feedback controller and a feedforward controller is designed and developed step by step. Experimental results show that the ball stays in contact with the robot using the proposed mechanism and control system when the robot is driving forwards, backwards and rotating.
