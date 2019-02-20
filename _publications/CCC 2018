@@ -1,0 +1,13 @@
+---
+title: "A Novel Real-time Motion Control Approach for Omni-directional Mobile Robots"
+collection: publications
+permalink: /publications/CCC 2018
+venue: " The Thirty-Seventh Chinese Control Conference (CCC-18)"
+date: 2018-7
+citation: '<b>Junkai Ren</b>, Wei Dai, Kuangye Xie, Junhao Xiao, and Huimin Lu. <i>The 37th Chinese control conference</i>. <b>CCC 2018</b>.<b>IEEE</b>.'
+---
+[[IEEE Version]](https://ieeexplore.ieee.org/document/8484052)
+
+
+## Abstract
+In highly dynamic environments, mobile robots are required to perform fast, accurate and stable tracking of high-speed trajectories. However, most research focus on the control algorithm for high-speed tracking, and rare works are reported which specifically deal with the communication problem and the structure of control system. This paper proposes a novel composed approach to improve the motion control performance and real-time reaction ability of mobile robot. First and foremost is to organize a hierarchical control structure for the robot motion control system. In this structure, the PD controller for trajectory tracking is improved based on the behavior of the robot. Secondly, in order to improve the communication speed, Process Data Object (PDO) is chosen as the communication object in CANopen communication protocol between EtherCAT and Elmo (motor controller). In the end, the pose estimation part of the robot is improved, and motor encoder data are used as feedback signal to adjust the robot's localization directly, thus providing more precise pose information. The improved motion control system illustrated in this paper was tested on a real omni-directional soccer robot, and the experimental results show that the robot can track high-speed trajectories effectively with small tracking errors and tiny communication time.
