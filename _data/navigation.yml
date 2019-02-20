@@ -13,11 +13,11 @@ main:
 #    url: /teaching/    
 
         
-  - title: "Blog Posts"
+  - title: "Blogs"
     url: /year-archive/
     
-  - title: "My Hobbies"
-    url: /portfolio/
+  - title: "Hobbies"
+    url: /hobbies/
     
   - title: "Contact"
     url: /contact/
