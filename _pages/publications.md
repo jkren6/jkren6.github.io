@@ -25,7 +25,7 @@ Bang Cheng, Xin Xu, Yujun Zeng, <b>Junkai Ren</b>, and Seul Jung.<br>
 <b>Junkai Ren</b>, Chenggang Xie, Junhao Xiao, Kaihong Huang, and Huimin Lu.<br>
 <i>The the 28th Chinese Control and Decision Conference.</i> <b>CCDC 2016</b>, <b>IEEE</b>.
 
-<b>[Content-Based Top-N Recommendation Using Heterogeneous Relations](https://www.trustie.net/attachments/download/151511/0585_final.pdf)</b><br>
+<b>[Content-Based Top-N Recommendation Using Heterogeneous Relations](https://jkren6.github.io/files/papers/ADC2016.pdf)</b><br>
 Yifan Chen, Xiang Zhao, Junjiao Gan, <b>Junkai Ren</b>, and Yanli Hu.<br>
 <i>The 27th Australasian Database Conference.</i> <b>ADC 2016</b>, <b>Springer</b>. <b><span style="color:red">Best Paper Award</span></b>.
 
