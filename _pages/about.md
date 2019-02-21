@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 * I am a Ph.D student in the Computer Science Department at National University of Defense Technology. 
-* My research advisor is [Prof. Xin Xu](http://www.jilsa.net/xinxu.html). Beforehead, I worked with [Prof. Zhiqiang Zheng], [Assoc. Prof. Huimin Lu](https://scholar.google.ca/citations?user=cp-6u7wAAAAJ&hl=en), [Assoc. Prof. Junhao Xiao](https://scholar.google.com/citations?user=UDR0byYAAAAJ&hl=en) in [NuBot research group](https://nubot.trustie.net/organizations/23). 
+* My research advisor is [Prof. Xin Xu](http://www.jilsa.net/xinxu.html). Beforehead, I worked with [Prof. Zhiqiang Zheng](), [Prof. Chenggang Xie](), [Assoc. Prof. Huimin Lu](https://scholar.google.ca/citations?user=cp-6u7wAAAAJ&hl=en), [Assoc. Prof. Junhao Xiao](https://scholar.google.com/citations?user=UDR0byYAAAAJ&hl=en) in [NuBot research group](https://nubot.trustie.net/organizations/23). 
 * My research interests lie in the general area of machine learning, particularly in reinforcement learning and transfer learning, as well as their applications in sequential decision making, autonomous driving, mobile robot and multi-agent systems.
 
 # Recent News
