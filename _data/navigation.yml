@@ -16,8 +16,8 @@ main:
   - title: "Blogs"
     url: /year-archive/
     
-  - title: "Hobbies"
-    url: /hobbies/
+#  - title: "Hobbies"
+#   url: /hobbies/
     
   - title: "Contact"
     url: /contact/
