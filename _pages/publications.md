@@ -23,7 +23,7 @@ Bang Cheng, Xin Xu, Yujun Zeng, <b>Junkai Ren</b>, and Seul Jung.<br>
 
 <b>[A Control System for Active Ball Handing in the RoboCup Middle Size League](https://jkren6.github.io/files/papers/CCDC2016.pdf)</b><br>
 <b>Junkai Ren</b>, Chenggang Xie, Junhao Xiao, Kaihong Huang, and Huimin Lu.<br>
-<i>The the 28th Chinese Control and Decision Conference.</i> <b>CCDC 2016</b>, <b>IEEE</b>.
+<i>The 28th Chinese Control and Decision Conference.</i> <b>CCDC 2016</b>, <b>IEEE</b>.
 
 <b>[Content-Based Top-N Recommendation Using Heterogeneous Relations](https://jkren6.github.io/files/papers/ADC2016.pdf)</b><br>
 Yifan Chen, Xiang Zhao, Junjiao Gan, <b>Junkai Ren</b>, and Yanli Hu.<br>
