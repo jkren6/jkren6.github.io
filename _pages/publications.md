@@ -31,7 +31,7 @@ Tuochang Wu, <b>Junkai Ren * </b>, Chuang Cheng, Xun Liu, Hui Peng, Huimin Lu.<b
 
 <b>[FTR-Bech: Benchmarking Deep Reinforcement Learning for Flipper-Track Robot Control]()</b><br>
 Hongchuan Zhang,  <b>Junkai Ren * </b>, Hainan Pan, Huimin Lu.<br> 
-<i>Asian Conference on Artificial Intelligence Technology (2023).</i> EI, Accept.
+<i>International Conference on Robotics and Automation (2023).</i> EI, submitted.
 
 
 
