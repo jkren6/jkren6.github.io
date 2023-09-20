@@ -13,7 +13,7 @@ author_profile: true
 <b>Junkai Ren</b>, Yixing Lan, Xin Xu, Yichuan Zhang, Qiang Fang, Yujun Zeng.<br> 
 <i>CAAI Transactions on Intelligence Technology (2023).</i> SCI.
 
-<b>[Efficient reinforcement learning with least-squares soft Bellman residual for robotic grasping](https://jkren6.github.io/files/papers/CCC2018.pdf)</b><br>
+<b>[Efficient reinforcement learning with least-squares soft Bellman residual for robotic grasping](https://www.sciencedirect.com/science/article/abs/pii/S0921889023000246)</b><br>
 Yixing Lan, <b>Junkai Ren</b>, Tao Tang, Xin Xu, Yifei Shi, Zixin Tang.<br> 
 <i>Robotics Auton. Syst. 164: 104385 (2023).</i> SCI.
 
@@ -45,7 +45,7 @@ Jiahang Liu, Lei Zuo, Xin Xu, Xinglong Zhang, <b>Junkai Ren * </b>, Qiang Fang, 
 Yichuan Zhang, <b>Junkai Ren * </b>, Junxiang Li, Qiang Fang, Xin Xu.<br> 
 <i>ICIC 2021: 259-273.</i> EI.
 
-<b>[Data-efficient Deep Reinforcement Learning Method Toward Scaling Continuous Robotic Task with Sparse Rewards](https://link.springer.com/chapter/10.1007/978-3-030-84529-2_22)</b><br>
+<b>[Data-efficient Deep Reinforcement Learning Method Toward Scaling Continuous Robotic Task with Sparse Rewards](https://ieeexplore.ieee.org/document/9517647)</b><br>
 <b>Junkai Ren * </b>, Yichuan Zhang, Yujun Zeng, Yixing Lan.<br> 
 <i>RCAR 2021: 1425-1431.</i> EI.
 
