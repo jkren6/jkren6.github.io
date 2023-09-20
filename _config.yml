@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junkai Ren | Ph.D Student"
+title                    : "Junkai Ren | Ph.D. in CS"
 title_separator          : "-"
 name                     : &name "Junkai Ren"
-description              : &description "PhD student, Computer Science Department, National University of Defense Technology"
+description              : &description "PhD, College of Intelligence and Technology, National University of Defense Technology"
 url                      : https://jkren6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jkren6/jkren6.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Junkai Ren"
   avatar           : "junkairenhead.jpg"
-  bio              : "Ph.D student, Computer Science Department, NUDT"
+  bio              : "Ph.D. in CS , College of Intelligence and Technology, NUDT"
   location         : "Changsha, China"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
