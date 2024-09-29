@@ -14,7 +14,7 @@ Lu Jiang, <b>Junkai Ren * </b>, Zhiqian Zhou, Yuke Qu, Zhiqiang Zheng, Huimin Lu
 
 <b>[SoftGrasp: Adaptive Grasping for Dexterous Hand Based on Multimodal Imitation Learning]()</b><br>
 Yihong Li, Ce Guo, <b>Junkai Ren * </b>, Chuang Cheng, Hui Zhang*, Huimin Lu<br> 
-<i>Journal of Field Robotics (2024).</i> SCI, JCR Q1 submitted.
+<i>IEEE-RAS International Conference on Humanoid Robots (Humanoids 2024).</i> SCI, JCR Q1 submitted.
 
 ## 2023
 
