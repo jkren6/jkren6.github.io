@@ -6,31 +6,37 @@ author_profile: true
 ## 2024
 <b>[FTR-Bech: Benchmarking Deep Reinforcement Learning for Flipper-Track Robot Control]()</b><br>
 Hongchuan Zhang,  <b>Junkai Ren * </b>, Junhao Xiao, Hainan Pan, Huimin Lu, Xin Xu<br> 
+<i>Journal of Field Robotics (2024).</i> SCI, JCR Q1, submitted.
+
+<b>[Graph Reinforcement Learning-based Reachability Map Generation for Mobile Manipulation under Flexible Environment]()</b><br>
+Lu Jiang, <b>Junkai Ren * </b>, Zhiqian Zhou, Yuke Qu, Zhiqiang Zheng, Huimin Lu<br> 
+<i>IEEE Transactions on Cognitive and Developmental Systems (TCDS) (2024).</i> SCI, JCR Q1, submitted.
+
+<b>[SoftGrasp: Adaptive Grasping for Dexterous Hand Based on Multimodal Imitation Learning]()</b><br>
+Yihong Li, Ce Guo, <b>Junkai Ren * </b>, Chuang Cheng, Hui Zhang*, Huimin Lu<br> 
 <i>Journal of Field Robotics (2024).</i> SCI, JCR Q1 submitted.
-
-
 
 ## 2023
 
 <b>[Deep reinforcement learning using least-squares truncated temporal-difference](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12202)</b><br>
 <b>Junkai Ren</b>, Yixing Lan, Xin Xu, Yichuan Zhang, Qiang Fang, Yujun Zeng.<br> 
-<i>CAAI Transactions on Intelligence Technology (2023).</i> SCI, JCR Q1.
+<i>CAAI Transactions on Intelligence Technology (2023).</i> SCI, JCR Q1, Published.
 
 <b>[Efficient reinforcement learning with least-squares soft Bellman residual for robotic grasping](https://www.sciencedirect.com/science/article/abs/pii/S0921889023000246)</b><br>
 Yixing Lan, <b>Junkai Ren</b>, Tao Tang, Xin Xu, Yifei Shi, Zixin Tang.<br> 
-<i>Robotics Auton. Syst. 164: 104385 (2023).</i> SCI.
+<i>Robotics Auton. Syst. 164: 104385 (2023).</i> SCI, JCR Q1, Published.
 
 <b>[Deep Reinforcement Learning for Flipper Control of Tracked Robots](https://arxiv.org/pdf/2306.10352.pdf)</b><br>
 Hainan Pan, Xieyuanli Chen, <b>Junkai Ren * </b>, Bailiang Chen, Kaihong Huang, Hui Zhang, Huimin Lu.<br> 
-<i>Remote Sensing (2023).</i> SCI, JCR Q2 TOP, Accept.
+<i>Remote Sensing (2023).</i> SCI, JCR Q2 TOP, Published.
 
 <b>[A Safe Reinforcement Learning Approach to Autonomous Navigation of Mobile Robots in Dynamic Environments]()</b><br>
 Zhiqian Zhou, <b>Junkai Ren * </b>, Zhiwen Zeng, Junhao Xiao, Xinglong Zhang, Xian Guo, Zongtan Zhou, Huimin Lu.<br> 
-<i>CAAI Transactions on Intelligence Technology (2023).</i> SCI, JCR Q1, Accept.
+<i>CAAI Transactions on Intelligence Technology (2023).</i> SCI, JCR Q1, Published.
 
 <b>[An Admittance Control Method Based on Parameters Fuzzification for Humanoid Steering Wheel Manipulation]()</b><br>
 Tuochang Wu, <b>Junkai Ren * </b>, Chuang Cheng, Xun Liu, Hui Peng, Huimin Lu.<br> 
-<i>Asian Conference on Artificial Intelligence Technology (2023).</i> EI, Best Poster Award, Accept.
+<i>Asian Conference on Artificial Intelligence Technology (2023).</i> EI, Best Poster Award, Published.
 
 
 
