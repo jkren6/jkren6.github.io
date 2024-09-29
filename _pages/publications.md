@@ -3,7 +3,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+## 2024
+<b>[FTR-Bech: Benchmarking Deep Reinforcement Learning for Flipper-Track Robot Control]()</b><br>
+Hongchuan Zhang,  <b>Junkai Ren * </b>, Junhao Xiao, Hainan Pan, Huimin Lu, Xin Xu<br> 
+<i>Journal of Field Robotics (2024).</i> SCI, JCR Q1 submitted.
 
 
 
@@ -11,7 +14,7 @@ author_profile: true
 
 <b>[Deep reinforcement learning using least-squares truncated temporal-difference](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12202)</b><br>
 <b>Junkai Ren</b>, Yixing Lan, Xin Xu, Yichuan Zhang, Qiang Fang, Yujun Zeng.<br> 
-<i>CAAI Transactions on Intelligence Technology (2023).</i> SCI.
+<i>CAAI Transactions on Intelligence Technology (2023).</i> SCI, JCR Q1.
 
 <b>[Efficient reinforcement learning with least-squares soft Bellman residual for robotic grasping](https://www.sciencedirect.com/science/article/abs/pii/S0921889023000246)</b><br>
 Yixing Lan, <b>Junkai Ren</b>, Tao Tang, Xin Xu, Yifei Shi, Zixin Tang.<br> 
@@ -19,19 +22,16 @@ Yixing Lan, <b>Junkai Ren</b>, Tao Tang, Xin Xu, Yifei Shi, Zixin Tang.<br>
 
 <b>[Deep Reinforcement Learning for Flipper Control of Tracked Robots](https://arxiv.org/pdf/2306.10352.pdf)</b><br>
 Hainan Pan, Xieyuanli Chen, <b>Junkai Ren * </b>, Bailiang Chen, Kaihong Huang, Hui Zhang, Huimin Lu.<br> 
-<i>Remote Sensing (2023).</i> SCI, Accept.
+<i>Remote Sensing (2023).</i> SCI, JCR Q2 TOP, Accept.
 
 <b>[A Safe Reinforcement Learning Approach to Autonomous Navigation of Mobile Robots in Dynamic Environments]()</b><br>
 Zhiqian Zhou, <b>Junkai Ren * </b>, Zhiwen Zeng, Junhao Xiao, Xinglong Zhang, Xian Guo, Zongtan Zhou, Huimin Lu.<br> 
-<i>CAAI Transactions on Intelligence Technology (2023).</i> SCI, Accept.
+<i>CAAI Transactions on Intelligence Technology (2023).</i> SCI, JCR Q1, Accept.
 
-<b>[A Fuzzy Admittance Control Method for Humanoid Steering Wheel Manipulation]()</b><br>
+<b>[An Admittance Control Method Based on Parameters Fuzzification for Humanoid Steering Wheel Manipulation]()</b><br>
 Tuochang Wu, <b>Junkai Ren * </b>, Chuang Cheng, Xun Liu, Hui Peng, Huimin Lu.<br> 
-<i>Asian Conference on Artificial Intelligence Technology (2023).</i> EI, Accept.
+<i>Asian Conference on Artificial Intelligence Technology (2023).</i> EI, Best Poster Award, Accept.
 
-<b>[FTR-Bech: Benchmarking Deep Reinforcement Learning for Flipper-Track Robot Control]()</b><br>
-Hongchuan Zhang,  <b>Junkai Ren * </b>, Hainan Pan, Huimin Lu.<br> 
-<i>International Conference on Robotics and Automation (2023).</i> EI, submitted.
 
 
 
