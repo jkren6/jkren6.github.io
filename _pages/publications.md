@@ -35,8 +35,8 @@ Lu Jiang, <b>Junkai Ren*</b>, Zhiqian Zhou, Yuke Qu, Zhiqiang Zheng, Huimin Lu<b
 <i>IEEE Transactions on Cognitive and Developmental Systems (TCDS) (2024).</i> SCI, JCR Q1, submitted.
 
 <b>[SoftGrasp: Adaptive Grasping for Dexterous Hand Based on Multimodal Imitation Learning]()</b><br>
-Yihong Li, Ce Guo, <b>Junkai Ren*</b>, Chuang Cheng, Hui Zhang*, Huimin Lu<br> 
-<i>IEEE-RAS International Conference on Humanoid Robots (Humanoids 2024).</i> SCI, JCR Q1 submitted.
+Yihong Li, Ce Guo, <b>Junkai Ren* </b>, Bailiang Chen, Chuang Cheng, Hui Zhang*, Huimin Lu<br> 
+<i>Biomimetic Intelligence and Robotics (2024).</i> ESCI, JCR Q2 submitted.
 
 ## 2023
 
