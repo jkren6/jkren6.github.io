@@ -6,6 +6,10 @@ author_profile: true
 ## 2024
 
 
+<b>[Hierarchical Navigation of Spatio-Temporal Graph for Crowds (面向动态人群场景的机器人时空分层导航)]()</b><be>
+Sichao Lin, Zhiqian Zhou, <b>Junkai Ren * </b>, Zhiwen Zeng, Mengdi Chang, Zhiqiang Zheng, Huimin Lu<br> 
+<i>Control Theory & Applications (控制理论与应用) (2024).</i> Accepted.
+
 <b>[Pedestrian Trajectory Prediction Based on the View-Constrained Spatio-Temporal Graph]()</b><be>
 Mengdi Chang, <b>Qinghua Yu* </b>, Junkkai Ren, Zhiqian Zhou, Zhiqiang Zheng, Huimin Lu<br> 
 <i>Asian Conference on Artificial Intelligence Technology (2024).</i> EI, Published.
