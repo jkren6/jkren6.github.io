@@ -4,6 +4,24 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024
+
+
+<b>[Pedestrian Trajectory Prediction Based on the View-Constrained Spatio-Temporal Graph]()</b><be>
+Mengdi Chang, <b>Qinghua Yu* </b>, Junkkai Ren, Zhiqian Zhou, Zhiqiang Zheng, Huimin Lu<br> 
+<i>Asian Conference on Artificial Intelligence Technology (2024).</i> EI, Published.
+
+<b>[Graph Reinforcement Learning-based Reachability Map Generation for Mobile Manipulation under Flexible Environment]()</b><be>
+Lu Jiang, <b>Junkai Ren * </b>, Zhiqian Zhou, Yuke Qu, Zhiqiang Zheng, Huimin Lu<br> 
+<i>International Conference on Distributed Artificial Intelligence, DAI (2024).</i> Student Poster, Accepted.
+
+<b>[Long-sequence Manipulation Learning based on Memorable KAN-assisted Reinforcement Learning]()</b><be>
+Yuke Qu, <b>Junkai Ren * </b>, Huimin Lu<br> 
+<i>International Conference on Distributed Artificial Intelligence, DAI (2024).</i> Student Poster, Accepted.
+
+<b>[Long-Sequence Task Learning based on KAN-assisted Reinforcement Learning]()</b><be>
+Yuke Qu, <b>Junkai Ren * </b>, Huimin Lu<br> 
+<i>RLChina Poster (2024).</i> Accepted.
+
 <b>[FTR-Bech: Benchmarking Deep Reinforcement Learning for Flipper-Track Robot Control]()</b><br>
 Hongchuan Zhang,  <b>Junkai Ren * </b>, Junhao Xiao, Hainan Pan, Huimin Lu, Xin Xu<br> 
 <i>Journal of Field Robotics (2024).</i> SCI, JCR Q1, submitted.
@@ -36,7 +54,8 @@ Zhiqian Zhou, <b>Junkai Ren * </b>, Zhiwen Zeng, Junhao Xiao, Xinglong Zhang, Xi
 
 <b>[An Admittance Control Method Based on Parameters Fuzzification for Humanoid Steering Wheel Manipulation]()</b><br>
 Tuochang Wu, <b>Junkai Ren * </b>, Chuang Cheng, Xun Liu, Hui Peng, Huimin Lu.<br> 
-<i>Asian Conference on Artificial Intelligence Technology (2023).</i> EI, Best Poster Award, Published.
+<i>Asian Conference on Artificial Intelligence Technology (2023).</i> EI, 
+<span style="color: red;">Best Poster Paper Award</span>, Published.
 
 
 
