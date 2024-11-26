@@ -6,23 +6,23 @@ author_profile: true
 ## 2024
 
 
-<b>[Hierarchical Navigation of Spatio-Temporal Graph for Crowds (面向动态人群场景的机器人时空分层导航)]()</b><be>
+<b>[Hierarchical Navigation of Spatio-Temporal Graph for Crowds (面向动态人群场景的机器人时空分层导航)]()</b><br>
 Sichao Lin, Zhiqian Zhou, <b>Junkai Ren * </b>, Zhiwen Zeng, Mengdi Chang, Zhiqiang Zheng, Huimin Lu<br> 
 <i>Control Theory & Applications (控制理论与应用) (2024).</i> Accepted.
 
-<b>[Pedestrian Trajectory Prediction Based on the View-Constrained Spatio-Temporal Graph]()</b><be>
+<b>[Pedestrian Trajectory Prediction Based on the View-Constrained Spatio-Temporal Graph]()</b><br>
 Mengdi Chang, <b>Qinghua Yu* </b>, Junkkai Ren, Zhiqian Zhou, Zhiqiang Zheng, Huimin Lu<br> 
 <i>Asian Conference on Artificial Intelligence Technology (2024).</i> EI, Published.
 
-<b>[Graph Reinforcement Learning-based Reachability Map Generation for Mobile Manipulation under Flexible Environment]()</b><be>
+<b>[Graph Reinforcement Learning-based Reachability Map Generation for Mobile Manipulation under Flexible Environment]()</b><br>
 Lu Jiang, <b>Junkai Ren * </b>, Zhiqian Zhou, Yuke Qu, Zhiqiang Zheng, Huimin Lu<br> 
 <i>International Conference on Distributed Artificial Intelligence, DAI (2024).</i> Student Poster, Accepted.
 
-<b>[Long-sequence Manipulation Learning based on Memorable KAN-assisted Reinforcement Learning]()</b><be>
+<b>[Long-sequence Manipulation Learning based on Memorable KAN-assisted Reinforcement Learning]()</b><br>
 Yuke Qu, <b>Junkai Ren * </b>, Huimin Lu<br> 
 <i>International Conference on Distributed Artificial Intelligence, DAI (2024).</i> Student Poster, Accepted.
 
-<b>[Long-Sequence Task Learning based on KAN-assisted Reinforcement Learning]()</b><be>
+<b>[Long-Sequence Task Learning based on KAN-assisted Reinforcement Learning]()</b><br>
 Yuke Qu, <b>Junkai Ren * </b>, Huimin Lu<br> 
 <i>RLChina Poster (2024).</i> Accepted.
 
