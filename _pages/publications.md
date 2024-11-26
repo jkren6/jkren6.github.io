@@ -5,10 +5,13 @@ author_profile: true
 ---
 ## 2024
 
-
 <b>[Hierarchical Navigation of Spatio-Temporal Graph for Crowds (面向动态人群场景的机器人时空分层导航)]()</b><br>
 Sichao Lin, Zhiqian Zhou, <b>Junkai Ren*</b>, Zhiwen Zeng, Mengdi Chang, Zhiqiang Zheng, Huimin Lu<br> 
-<i>Control Theory & Applications (控制理论与应用) (2024).</i> Accepted.
+<i>Control Theory & Applications (控制理论与应用) (2024).</i> Published.
+
+<b>[HATSC-YOLOv10: Improved YOLOv10 for Satellite Remote Sensing Images of Small Object Detection]()</b><br>
+Xuhui Xie, Junkkai Ren, <b>Yujun Zeng*</b>, Shanling Wei, Yuxin Wang, Wenting Luan<br> 
+<I>China Automation Congress (2024).</i> EI, Published.
 
 <b>[Pedestrian Trajectory Prediction Based on the View-Constrained Spatio-Temporal Graph]()</b><br>
 Mengdi Chang, <b>Qinghua Yu*</b>, Junkkai Ren, Zhiqian Zhou, Zhiqiang Zheng, Huimin Lu<br> 
