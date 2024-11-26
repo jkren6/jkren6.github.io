@@ -14,7 +14,7 @@ Xuhui Xie, <b>Junkkai Ren</b>, Yujun Zeng*, Shanling Wei, Yuxin Wang, Wenting Lu
 <I>China Automation Congress (2024).</i> EI, Published.
 
 <b>[Pedestrian Trajectory Prediction Based on the View-Constrained Spatio-Temporal Graph]()</b><br>
-Mengdi Chang, Qinghua Yu*, </b> Junkai Ren </b>, Zhiqian Zhou, Zhiqiang Zheng, Huimin Lu<br> 
+Mengdi Chang, Qinghua Yu*, <b>Junkkai Ren</b>, Zhiqian Zhou, Zhiqiang Zheng, Huimin Lu<br> 
 <i>Asian Conference on Artificial Intelligence Technology (2024).</i> EI, Published.
 
 <b>[Graph Reinforcement Learning-based Reachability Map Generation for Mobile Manipulation under Flexible Environment]()</b><br>
