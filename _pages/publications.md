@@ -7,17 +7,19 @@ author_profile: true
 
 <b>[FTR-Bech: Benchmarking Deep Reinforcement Learning for Flipper-Track Robot Control]()</b><br>
 Hongchuan Zhang,  <b>Junkai Ren*</b>, Junhao Xiao, Hainan Pan, Huimin Lu, Xin Xu<br> 
-<i>Journal of Field Robotics (2024).</i> SCI, JCR Q1, Published.
+<i>Journal of Field Robotics (2025).</i> SCI, JCR Q1, Published.
 
 <b>[SoftGrasp: Adaptive Grasping for Dexterous Hand Based on Multimodal Imitation Learning]()</b><br>
 Yihong Li, Ce Guo, <b>Junkai Ren* </b>, Bailiang Chen, Chuang Cheng, Hui Zhang*, Huimin Lu<br> 
-<i>Biomimetic Intelligence and Robotics (2024).</i> ESCI, JCR Q2 Published.
+<i>Biomimetic Intelligence and Robotics (2025).</i> ESCI, JCR Q2 Published.
 
 <b>[State Space Sampling for Adaptive Path Planning in Outdoor Unstructured Environments]()</b><br>
 Lu Jiang, Jiayang Liu, Jiawei Luo, Yuke Qu, <b>Junkai Ren* </b>, Zhiqiang Zheng<br> 
 <i>The 37th Chinese Control and Decision Conference (CCDC 2025).</i> EI Accepted.
 
-
+<b>[Resilient Security Control for Networked UAVs Against Aperiodic Denial-of-Service Attacks Triggered by Memory Events]()</b><br>
+Chuhan Zhou, Ying Wang, Maolong Lv, <b>Haibin Duan* </b>, Junkai Ren, Xiao-Zheng Jin<br> 
+<i>IEEE Transactions on Control Systems Technology (2025).</i> SCI, JCR Q1 Accepted.
 
 ## 2024
 
