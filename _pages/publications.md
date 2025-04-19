@@ -5,6 +5,15 @@ author_profile: true
 ---
 ## 2025
 
+
+<b>[Hierarchical Task Scheduling and Robotic Manipulation for Autonomous Materials Discovery]()</b><br>
+Lu Jiang, <b>Junkai Ren*</b>, Yuke Qu, Jiawei Luo, Huimin Lu, Zhiqiang Zheng, Yicong Ye<br> 
+<i>2025 International Annual Conference on Complex Systems and Intelligent Science (CSIS-IAC 2025).</i> EI, Accepted.
+
+<b>[Prior Information-Guided Long Sequence Deep Reinforcement Learning (基于先验信息引导的长时序深度强化学习方法)]()</b><br>
+ <b>Junkai Ren*</b>, Zhiwen Zeng, Yuke Qu, Jiawei Luo, Huimin Lu, Xinglong Zhang <br> 
+<i>The 40th Youth Academic Annual Conference of Chinese Association of Automation (中国自动化学会青年学术年会 YAC2025).</i> Accepted.
+
 <b>[FTR-Bech: Benchmarking Deep Reinforcement Learning for Flipper-Track Robot Control]()</b><br>
 Hongchuan Zhang,  <b>Junkai Ren*</b>, Junhao Xiao, Hainan Pan, Huimin Lu, Xin Xu<br> 
 <i>Journal of Field Robotics (2025).</i> SCI, JCR Q1, Published.
