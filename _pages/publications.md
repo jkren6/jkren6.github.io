@@ -4,7 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
+<b>[Learning to Drive: Preference-Guided Reinforcement Learning for Humanoid Robot Vehicle Manipulation]()</b><br>
+Jiawei Luo, Yuke Qu, <b>Junkai Ren*</b>, Huimin Lu <br> 
+<i> The 1st Workshop on Humanoid Agents @The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (Humanoid Agents @CVPR 2025).</i> EI, Accepted.
 
+<b>[Self-Learning Control Method for Tracked Robots Based on World Model Reinforcement Learning (基于世界模型强化学习的履带机器人自学习控制方法)]()</b><br>
+ <b>Junkai Ren*</b>, Hongchuan Zhang, Yuke Qu, Huimin Lu, Xin Xu, Yang Yu <br> 
+<i>ROBOT (机器人) (2025).</i> Accepted.
+
+<b>[Asymmetric Actor-Critic Reinforcement Learning for Long-Sequence Autonomous Manipulation (面向长序列自主作业的非对称Actor-Critic强化学习方法)]()</b><br>
+ <b>Junkai Ren*</b>, Yuke Qu, Jiawei Luo, Ziqi Ni, Huimin Lu, Yicong Ye <br> 
+<i>Journal of National University of Defense Technology (国防科技大学学报) (2025).</i> Published.
 
 <b>[Hierarchical Task Scheduling and Robotic Manipulation for Autonomous Materials Discovery]()</b><br>
 Lu Jiang, <b>Junkai Ren*</b>, Yuke Qu, Jiawei Luo, Huimin Lu, Zhiqiang Zheng, Yicong Ye<br> 
@@ -12,7 +22,7 @@ Lu Jiang, <b>Junkai Ren*</b>, Yuke Qu, Jiawei Luo, Huimin Lu, Zhiqiang Zheng, Yi
 
 <b>[Prior Information-Guided Long Sequence Deep Reinforcement Learning (基于先验信息引导的长时序深度强化学习方法)]()</b><br>
  <b>Junkai Ren*</b>, Zhiwen Zeng, Yuke Qu, Jiawei Luo, Huimin Lu, Xinglong Zhang <br> 
-<i>The 40th Youth Academic Annual Conference of Chinese Association of Automation (中国自动化学会青年学术年会 YAC2025).</i> Accepted.
+<i>The 40th Youth Academic Annual Conference of Chinese Association of Automation (中国自动化学会青年学术年会, YAC2025).</i> Published.
 
 <b>[FTR-Bech: Benchmarking Deep Reinforcement Learning for Flipper-Track Robot Control]()</b><br>
 Hongchuan Zhang,  <b>Junkai Ren*</b>, Junhao Xiao, Hainan Pan, Huimin Lu, Xin Xu<br> 
@@ -24,7 +34,7 @@ Yihong Li, Ce Guo, <b>Junkai Ren* </b>, Bailiang Chen, Chuang Cheng, Hui Zhang*,
 
 <b>[State Space Sampling for Adaptive Path Planning in Outdoor Unstructured Environments]()</b><br>
 Lu Jiang, Jiayang Liu, Jiawei Luo, Yuke Qu, <b>Junkai Ren* </b>, Zhiqiang Zheng<br> 
-<i>The 37th Chinese Control and Decision Conference (CCDC 2025).</i> EI Accepted.
+<i>The 37th Chinese Control and Decision Conference (CCDC 2025).</i> EI, Published.
 
 <b>[Resilient Security Control for Networked UAVs Against Aperiodic Denial-of-Service Attacks Triggered by Memory Events]()</b><br>
 Chuhan Zhou, Ying Wang, Maolong Lv, <b>Haibin Duan* </b>, Junkai Ren, Xiao-Zheng Jin<br> 
