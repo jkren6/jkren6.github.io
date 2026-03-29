@@ -2,8 +2,21 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
+
+
+## 2026
+<b>[Efficient Hierarchical Reinforcement Learning with Dynamic Kolmogorov–Arnold Network for Long-Horizon Robotic Manipulation]()</b><br>
+Yuke Qu,  <b>Junkai Ren*</b>, Jiawei Luo, Yufeng Xie, Huimin Lu, Xin Xu, Yicong Ye<br> 
+<i> The 2026 IEEE International Conference on Robotics & Automation (ICRA 2026).</i> EI, Accepted.
+
+
 ---
 ## 2025
+
+<b>[Graph Reinforcement Learning-based Reachability Map Generation for Mobile Manipulation under Flexible Environment]()</b><br>
+Lu Jiang, <b>Junkai Ren*</b>, Zhiqian Zhou, Yuke Qu, Zhiqiang Zheng, Huimin Lu<br> 
+<i>IEEE Transactions on Cognitive and Developmental Systems (TCDS) (2025).</i> SCI, JCR Q1, Published.
+
 <b>[Learning to Drive: Preference-Guided Reinforcement Learning for Humanoid Robot Vehicle Manipulation]()</b><br>
 Jiawei Luo, Yuke Qu, <b>Junkai Ren*</b>, Huimin Lu <br> 
 <i> The 1st Workshop on Humanoid Agents @The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (Humanoid Agents @CVPR 2025).</i> EI, Accepted.
@@ -40,6 +53,11 @@ Lu Jiang, Jiayang Liu, Jiawei Luo, Yuke Qu, <b>Junkai Ren* </b>, Zhiqiang Zheng<
 Chuhan Zhou, Ying Wang, Maolong Lv, <b>Haibin Duan* </b>, Junkai Ren, Xiao-Zheng Jin<br> 
 <i>IEEE Transactions on Control Systems Technology (2025).</i> SCI, JCR Q1 Accepted.
 
+
+<b>[Deep Reinforcement Learning for Efficient Obstacle Traversal in Hybrid Wheel-Track-Fin Robots]()</b><br>
+Zan Tang, Xinle Zhou, Hongchuan Zhang, Xiaohong Xu, <b>Junkai Ren*</b>, Yanjie Chen<br> 
+<i>2025 IEEE International Conference on Unmanned Systems (ICUS 2025).</i> EI, Published.
+
 ## 2024
 
 <b>[Hierarchical Navigation of Spatio-Temporal Graph for Crowds (面向动态人群场景的机器人时空分层导航)]()</b><br>
@@ -65,11 +83,6 @@ Yuke Qu, <b>Junkai Ren*</b>, Huimin Lu<br>
 <b>[Long-Sequence Task Learning based on KAN-assisted Reinforcement Learning]()</b><br>
 Yuke Qu, <b>Junkai Ren*</b>, Huimin Lu<br> 
 <i>RLChina Poster (2024).</i> Accepted.
-
-<b>[Graph Reinforcement Learning-based Reachability Map Generation for Mobile Manipulation under Flexible Environment]()</b><br>
-Lu Jiang, <b>Junkai Ren*</b>, Zhiqian Zhou, Yuke Qu, Zhiqiang Zheng, Huimin Lu<br> 
-<i>IEEE Transactions on Cognitive and Developmental Systems (TCDS) (2024).</i> SCI, JCR Q1, submitted.
-
 
 
 ## 2023
