@@ -3,6 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 
+---
 
 ## 2026
 <b>[Efficient Hierarchical Reinforcement Learning with Dynamic Kolmogorov–Arnold Network for Long-Horizon Robotic Manipulation]()</b><br>
