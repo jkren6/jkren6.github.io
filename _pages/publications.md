@@ -14,6 +14,11 @@ Yuke Qu,  <b>Junkai Ren*</b>, Jiawei Luo, Yufeng Xie, Huimin Lu, Xin Xu, Yicong 
 ---
 ## 2025
 
+<b>[FTR-Bech: Benchmarking Deep Reinforcement Learning for Flipper-Track Robot Control]()</b><br>
+Hongchuan Zhang,  <b>Junkai Ren*</b>, Junhao Xiao, Hainan Pan, Huimin Lu, Xin Xu<br> 
+<i>Journal of Field Robotics (2025).</i> SCI, JCR Q1, Published. <span style="color: red; font-weight: bold; font-style: italic;">Cover Image Award !</span>
+
+
 <b>[Graph Reinforcement Learning-based Reachability Map Generation for Mobile Manipulation under Flexible Environment]()</b><br>
 Lu Jiang, <b>Junkai Ren*</b>, Zhiqian Zhou, Yuke Qu, Zhiqiang Zheng, Huimin Lu<br> 
 <i>IEEE Transactions on Cognitive and Developmental Systems (TCDS) (2025).</i> SCI, JCR Q1, Published.
@@ -38,14 +43,10 @@ Lu Jiang, <b>Junkai Ren*</b>, Yuke Qu, Jiawei Luo, Huimin Lu, Zhiqiang Zheng, Yi
  <b>Junkai Ren*</b>, Zhiwen Zeng, Yuke Qu, Jiawei Luo, Huimin Lu, Xinglong Zhang <br> 
 <i>The 40th Youth Academic Annual Conference of Chinese Association of Automation (中国自动化学会青年学术年会, YAC2025).</i> Published.
 
-<b>[FTR-Bech: Benchmarking Deep Reinforcement Learning for Flipper-Track Robot Control]()</b><br>
-Hongchuan Zhang,  <b>Junkai Ren*</b>, Junhao Xiao, Hainan Pan, Huimin Lu, Xin Xu<br> 
-<i>Journal of Field Robotics (2025).</i> SCI, JCR Q1, Published. <span style="color: red; font-weight: bold;">Cover Image Award</span>
-
 
 <b>[SoftGrasp: Adaptive Grasping for Dexterous Hand Based on Multimodal Imitation Learning]()</b><br>
 Yihong Li, Ce Guo, <b>Junkai Ren* </b>, Bailiang Chen, Chuang Cheng, Hui Zhang*, Huimin Lu<br> 
-<i>Biomimetic Intelligence and Robotics (2025).</i> ESCI, JCR Q2 Published. <span style="color: red; font-weight: bold;">Editors Choice Award</span>
+<i>Biomimetic Intelligence and Robotics (2025).</i> ESCI, JCR Q2 Published. <span style="color: red; font-weight: bold; font-style: italic;">Editor's Choice Award !</span>
 
 
 <b>[State Space Sampling for Adaptive Path Planning in Outdoor Unstructured Environments]()</b><br>
