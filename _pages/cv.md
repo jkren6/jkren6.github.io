@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Junkai Ren (任君凯)"
+title: "Junkai Ren"
 permalink: /cv/
 author_profile: true
 redirect_from:
