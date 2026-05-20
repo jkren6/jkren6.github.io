@@ -8,8 +8,24 @@ redirect_from:
   - /about.html
 ---
 
+## Research Gallery
+
+<div style="display:flex; overflow-x:auto; gap:12px; padding:10px;">
+
+
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/toronto.JPG?raw=true" height="240">
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/p0.png?raw=true" height="240">
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/p1.jpg?raw=true" height="240">
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/p2.jpg?raw=true" height="240">
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/p3.jpg?raw=true" height="240">
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/p4.jpg?raw=true" height="240">
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/per.jpg?raw=true" height="240">
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/banff.jpeg?raw=true" height="240">
+
+</div>
+
 <p align="center">
-  <img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/junkairen.jpg?raw=true" alt="Photo" style="width: 600px;"/> 
+<em>Embodied Intelligence · Reinforcement Learning · Robotics</em>
 </p>
 
 #### 一、我是谁
