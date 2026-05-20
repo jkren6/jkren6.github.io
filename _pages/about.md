@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Research Gallery
-
-<div style="display:flex; overflow-x:auto; gap:12px; padding:10px;">
+<!-- <div style="display:flex; overflow-x:auto; gap:12px; padding:10px;">
 
 <img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/toronto.JPG?raw=true"
      style="width:180px; height:120px; object-fit:cover; border-radius:8px;">
@@ -40,7 +38,7 @@ redirect_from:
 
 <p align="center">
 <em>Embodied Intelligence · Reinforcement Learning · Robotics</em>
-</p>
+</p> -->
 
 
 
