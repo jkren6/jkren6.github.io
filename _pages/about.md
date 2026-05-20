@@ -42,6 +42,42 @@ redirect_from:
 <em>Embodied Intelligence · Reinforcement Learning · Robotics</em>
 </p>
 
+
+
+
+## Research Gallery
+
+<div style="display:flex; overflow-x:auto; gap:12px; padding:10px;">
+
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/toronto.JPG?raw=true"
+     style="height:180px; width:280px; object-fit:cover; border-radius:10px; flex-shrink:0;">
+
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/p0.png?raw=true"
+     style="height:180px; width:280px; object-fit:cover; border-radius:10px; flex-shrink:0;">
+
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/p1.jpg?raw=true"
+     style="height:180px; width:280px; object-fit:cover; border-radius:10px; flex-shrink:0;">
+
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/p2.jpg?raw=true"
+     style="height:180px; width:280px; object-fit:cover; border-radius:10px; flex-shrink:0;">
+
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/p3.jpg?raw=true"
+     style="height:180px; width:280px; object-fit:cover; border-radius:10px; flex-shrink:0;">
+
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/p4.jpg?raw=true"
+     style="height:180px; width:280px; object-fit:cover; border-radius:10px; flex-shrink:0;">
+
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/per.jpg?raw=true"
+     style="height:180px; width:280px; object-fit:cover; border-radius:10px; flex-shrink:0;">
+
+<img src="https://github.com/jkren6/jkren6.github.io/blob/master/images/banff.jpeg?raw=true"
+     style="height:180px; width:280px; object-fit:cover; border-radius:10px; flex-shrink:0;">
+
+</div>
+<p align="center">
+<em>Embodied Intelligence · Reinforcement Learning · Robotics</em>
+</p>
+
 ## 一、我是谁
 
 我是一名扎根于人工智能与机器人交叉领域的科研工作者，现任国防科技大学智能科学学院副教授（硕导、本-硕-博贯穿式培养导师）。目前我在学院机器人技术团队负责强化学习与机器人运动控制方向，分管研究生教学与招生培养工作，兼顾教职、博士后、工程师的招聘工作。
