@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "任君凯"
-excerpt: "About me"
+excerpt: "任君凯"
 author_profile: true
 redirect_from: 
   - /about/
