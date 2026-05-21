@@ -150,4 +150,12 @@ redirect_from:
 * My Ph.D. research advisor is [Prof. Xin Xu](http://www.jilsa.net/xinxu.html). Before this, I worked with Prof. Zhiqiang Zheng, Prof. Chenggang Xie, [Prof. Huimin Lu](https://scholar.google.ca/citations?user=cp-6u7wAAAAJ&hl=en), [Assoc. Prof. Junhao Xiao](https://scholar.google.com/citations?user=UDR0byYAAAAJ&hl=en) in [NuBot research group](https://nubot.trustie.net/organizations/23). 
 * My research interests lie in the general area of machine learning, particularly reinforcement learning and transfer learning, as well as their applications in sequential decision-making, autonomous driving, mobile robots, and multi-agent systems.
 
-* December 8, 2018 - December 8, 2019. Visiting Ph.D. Student (supported by CSC) in the [Reinforcement Learning and Artificial Intelligence (RLAI) group](http://rlai.cs.ualberta.ca/) at the [University of Alberta](https://www.ualberta.ca/). I worked with  [Prof. Richard Sutton](http://incompleteideas.net/). 
+* December 8, 2018 - December 8, 2019. Visiting Ph.D. Student (supported by CSC) in the [Reinforcement Learning and Artificial Intelligence (RLAI) group](http://rlai.cs.ualberta.ca/) at the [University of Alberta](https://www.ualberta.ca/). I worked with  [Prof. Richard Sutton](http://incompleteideas.net/).
+
+
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=jwHA1Qxf6jnjNiRjiv8ySEx4ZImXpQ3GIbBwvKJ-sXw&co=3e86ba'></script>
+
+
+
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=jwHA1Qxf6jnjNiRjiv8ySEx4ZImXpQ3GIbBwvKJ-sXw&co=3e86ba'></script>
+
