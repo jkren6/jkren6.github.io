@@ -10,6 +10,10 @@ author_profile: true
 Yuke Qu,  <b>Junkai Ren*</b>, Jiawei Luo, Yufeng Xie, Huimin Lu, Xin Xu, Yicong Ye<br> 
 <i> The 2026 IEEE International Conference on Robotics & Automation (ICRA 2026).</i> EI, Accepted.
 
+<b>[Stable grasp generation enabled by part segmentation for real-world robotic applications]()</b><br>
+Zirui Guo, Xieyuanli Chen, Junkai Ren, Zhiqiang Zheng, Huimin Lu, Ruibin Guo<br> 
+<i> Robotics and Computer-Integrated Manufacturing (2026).</i> SCI, Published.
+
 
 ---
 ## 2025
